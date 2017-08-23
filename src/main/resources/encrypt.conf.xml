@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>加密解密key</comment>
+    <entry key="encrypt.passphrase">gs7n$en76$3@ad1s</entry>
+</properties>
